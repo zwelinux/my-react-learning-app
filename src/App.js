@@ -1,5 +1,5 @@
 import React from "react"
-import Button from "./Button"
+// import Button from "./Button"
 // import Gallery from "./Gallery"
 import Carousel from "./Carousel"
 import './App.css'
